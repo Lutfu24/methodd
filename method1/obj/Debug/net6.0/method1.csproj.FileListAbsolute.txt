@@ -1,0 +1,15 @@
+C:\Users\99451\source\repos\method1\method1\obj\Debug\net6.0\method1.csproj.AssemblyReference.cache
+C:\Users\99451\source\repos\method1\method1\obj\Debug\net6.0\method1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99451\source\repos\method1\method1\obj\Debug\net6.0\method1.AssemblyInfoInputs.cache
+C:\Users\99451\source\repos\method1\method1\obj\Debug\net6.0\method1.AssemblyInfo.cs
+C:\Users\99451\source\repos\method1\method1\obj\Debug\net6.0\method1.csproj.CoreCompileInputs.cache
+C:\Users\99451\source\repos\method1\method1\bin\Debug\net6.0\method1.exe
+C:\Users\99451\source\repos\method1\method1\bin\Debug\net6.0\method1.deps.json
+C:\Users\99451\source\repos\method1\method1\bin\Debug\net6.0\method1.runtimeconfig.json
+C:\Users\99451\source\repos\method1\method1\bin\Debug\net6.0\method1.dll
+C:\Users\99451\source\repos\method1\method1\bin\Debug\net6.0\method1.pdb
+C:\Users\99451\source\repos\method1\method1\obj\Debug\net6.0\method1.dll
+C:\Users\99451\source\repos\method1\method1\obj\Debug\net6.0\refint\method1.dll
+C:\Users\99451\source\repos\method1\method1\obj\Debug\net6.0\method1.pdb
+C:\Users\99451\source\repos\method1\method1\obj\Debug\net6.0\method1.genruntimeconfig.cache
+C:\Users\99451\source\repos\method1\method1\obj\Debug\net6.0\ref\method1.dll
